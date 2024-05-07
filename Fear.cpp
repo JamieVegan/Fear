@@ -2,11 +2,10 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
-#include <algorithm>
 #include <string>
 #include <map>
-#include <any>
 #include <windows.h>
+#include <regex>
 
 // Returning arrays from functions :)
 #include <vector>
