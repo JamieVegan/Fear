@@ -13,7 +13,6 @@
 
 // File reading
 #include <fstream>
-#include <sstream>
 
 // String to WString
 #include <cstdio>
@@ -362,7 +361,7 @@ void RunKanonScript(str Filename) {
 			}
 		}
 	}
-
+	
 	File.close();
 }
 
